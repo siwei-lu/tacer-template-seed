@@ -1,0 +1,16 @@
+{
+  "name": "template",
+  "version": "0.1.0",
+  "description": "Say something",
+  "bin": {
+    "tacer-script": "./bin/script.js"
+  },
+  "scripts": {
+    "build": "tacer-script build"
+  },
+  "author": "Idan Loo <im@siwei.lu>",
+  "license": "MIT",
+  "devDependencies": {
+    "tacer-template-seed": "file:.."
+  }
+}
