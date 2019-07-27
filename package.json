@@ -1,6 +1,6 @@
 {
   "name": "tacer-template-seed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create templates of tacer.",
   "main": "./dist/index.js",
   "types": "./types",
