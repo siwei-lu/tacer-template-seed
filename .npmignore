@@ -1,4 +1,4 @@
-dist/
+.circleci/
 src/
 __tests__/
 template/
