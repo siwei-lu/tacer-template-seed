@@ -1,0 +1,6 @@
+dist/
+src/
+__tests__/
+template/
+.DS_Store
+*.log
