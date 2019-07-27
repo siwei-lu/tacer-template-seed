@@ -1,6 +1,5 @@
 node_modules/
 types/
 dist/
-template.zip
 .DS_Store
-*.log.
+*.log
